@@ -19,13 +19,13 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "aboutme.md"}
   - {file: "publications.html"}
+  - {file: "research.html"}
   - {file: "writings.html"}
   - {file: "suomeksi.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
   - {title: Github, icon: github, url: "https://artahy.github.io"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/artahy"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
