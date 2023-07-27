@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "aboutme.md"}
   - {file: "publications.html"}
   - {file: "research.html"}
+  - {file: "teaching.html"}
   - {file: "writings.html"}
   - {file: "suomeksi.html"}
 
