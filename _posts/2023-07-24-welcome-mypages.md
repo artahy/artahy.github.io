@@ -1,10 +1,10 @@
 ---
-title: "Welcome to my pages"
+title: "Test post"
 layout: post
 ---
 
 Lorem ipsum dolor sit amet.
 
-## Welcome to my blog
+## Test title
 
-Test.
+Test text.
