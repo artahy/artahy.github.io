@@ -25,7 +25,7 @@ My CV can be downloaded from here: <a href="">TBA</a>
 <strong>Research interests / areas:</strong>
 <ul>
  	<li>Industrial economics / Industrial organisation</li>
- 	<li>Corporate and small business finance / Banking</li>
+ 	<li>Economics of innovation</li>
  	<li>Economics of entrepreneurship</li>
 </ul>
 &nbsp;
